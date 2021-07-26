@@ -1,0 +1,45 @@
+.panda {
+  display: flex;
+  align-items: center;
+  background-color: #fceae8;
+}
+.rounded {
+  border-radius: 30px !important;
+}
+.button {
+  background-color: #ff4d94;
+  padding: 15px;
+  width: 150px;
+  color: white;
+  border-radius: 15px;
+}
+.background-catagories {
+  background-color: #ffa500;
+}
+
+.btn-primary {
+  background-color: #ff4b93 !important;
+  padding: 10px;
+  width: 200px;
+  font-size: 1.5em;
+  border-radius: 10px;
+  color: white;
+}
+.background-panda {
+  background-color: #fceae8;
+  padding: 100px;
+}
+footer {
+  margin-top: 100px;
+}
+@media (max-width: 568px) {
+  .row {
+    background-color: yellowgreen;
+  }
+  .media-html {
+    background-color: rgb(15, 0, 15);
+  }
+  .color-html {
+    margin-bottom: 30px;
+  }
+}
